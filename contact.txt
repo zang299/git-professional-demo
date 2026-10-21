@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Contact: support@example.com" 
+=======
+"Contact: admin@example.com" 
+>>>>>>> feature/add-project-structure
